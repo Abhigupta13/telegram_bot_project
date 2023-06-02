@@ -70,7 +70,6 @@ const commands=`
 `;
 
 // const token_key=process.env.TELEGRAM_TOKEN;
-// const token_key="5508858238:AAGAh6z6lD8SMYoumZoydk9P-SAE9PTWOOU";
 const bot = new Telegraf(token_key);
 
 bot.start((ctx)=>ctx.reply("Welcome to the now coding bot made by Abhishek "));
