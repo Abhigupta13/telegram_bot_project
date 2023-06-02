@@ -9,7 +9,7 @@ const axios = require('axios');
  * -> then it will ask for a username ending with bot
  * -> t.me/coding_akg_bot
  * -> Use this token to access the HTTP API:
-       5508858238:AAGAh6z6lD8SMYoumZoydk9P-SAE9PTWOOU
+ * given by BotFather
  *  
  * 
  */
